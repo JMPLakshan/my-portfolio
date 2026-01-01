@@ -7,7 +7,7 @@ const projects = [
     description: "A personal website to showcase my skills, projects, and resume.",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop",
     link: "https://your-portfolio.com",
-    github: "https://github.com/yourusername/portfolio",
+    github: "https://github.com/JMPLakshan/my-portfolio.git",
     tags: ["React", "Tailwind CSS", "Vite"],
   },
   {
