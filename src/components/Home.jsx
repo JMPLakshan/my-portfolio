@@ -23,7 +23,7 @@ const Home = () => {
             className="relative w-48 h-48 rounded-full object-cover shadow-2xl border-4 border-white"
           />
           <div className="absolute -bottom-2 -right-2 bg-gradient-to-r from-indigo-600 to-purple-600 text-white p-3 rounded-full shadow-lg">
-            <Code2 size={24} />
+            
           </div>
         </div>
 
@@ -31,7 +31,7 @@ const Home = () => {
         <div className="mb-4 animate-fade-in-up animation-delay-200">
           <span className="inline-flex items-center gap-2 px-4 py-2 bg-indigo-100 text-indigo-700 rounded-full text-sm font-semibold shadow-sm">
             <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
-            Available for Opportunities
+            Welcome 
           </span>
         </div>
 
@@ -131,6 +131,8 @@ const Home = () => {
           </div>
         </div>
       </div>
+
+
 
       {/* Scroll Indicator */}
       <a 
