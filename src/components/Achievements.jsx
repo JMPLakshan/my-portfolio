@@ -33,10 +33,11 @@ const achievements = {
     icon: Award,
     color: "from-pink-500 to-red-500",
     items: [
-      { name: "React - The Complete Guide", platform: "Udemy", year: "2023", description: "Advanced React patterns and hooks" },
-      { name: "JavaScript Algorithms", platform: "freeCodeCamp", year: "2023", description: "Data structures & algorithms" },
-      { name: "Tailwind CSS Mastery", platform: "YouTube/Coursera", year: "2024", description: "Modern CSS framework" },
       { name: "Full Stack Development", platform: "Online", year: "2023", description: "MERN stack specialization" },
+      { name: "Foundation in Information Technology", platform: "Esoft", year: "2022", description: "Foundation in ICT..." },
+      { name: "Arduino", platform: "CodeCamp", year: "2021", description: "Basic Ardunio " },
+      { name: "English", platform: "Sun Vision", year: "2023", description: "Spoken English" },
+      
       // Add your actual courses
     ],
   },

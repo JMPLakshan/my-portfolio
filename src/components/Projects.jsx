@@ -10,6 +10,7 @@ const projects = [
     github: "https://github.com/JMPLakshan/my-portfolio.git",
     tags: ["React", "Tailwind CSS", "Vite"],
   },
+  
   {
     title: "Mobile App",
     description: "A React app that fetches weather data using a public API.",
